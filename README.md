@@ -4,6 +4,14 @@ A template repository to make checklist web apps
 
 This tool is part of the [Blitz Framework](http://friendsofepub.github.io/Blitz/) and is the tiny little engine that powers the [BlitzOptim](https://friendsofepub.github.io/eBookDesignChecklist/) and [BlitzPerf](https://friendsofepub.github.io/eBookPerfChecklist/) web apps.
 
+## Important Note
+
+We’re in the process of sunsetting the entire Blitz Project, which means this repository will reach End of Life and be archived as read-only on September 1, 2020. Don’t worry, all current and future forks will continue to work after this date.
+
+If you are interested in the sunsetting roadmap, or taking over this repository’s maintenance and development, please [check the related meta issue in Blitz](https://github.com/FriendsOfEpub/Blitz/issues/66).
+
+Call for new maintainers ends June 15, 2020.
+
 ## Abstract
 
 Blitz checklist is a template repository leveraging [Mustache](http://mustache.github.io) to create interactive checklists. It provides all assets required for a Progressive Web App and a JSON model to generate its index page.
