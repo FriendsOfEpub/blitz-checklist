@@ -1,8 +1,6 @@
 # blitz-checklist
 
-A template repository to make checklist web apps
-
-This tool is part of the [Blitz Framework](http://friendsofepub.github.io/Blitz/) and is the tiny little engine that powers the [BlitzOptim](https://friendsofepub.github.io/eBookDesignChecklist/) and [BlitzPerf](https://friendsofepub.github.io/eBookPerfChecklist/) web apps.
+All the Blitz repositories reached End Of Life on July 1, 2020. The entire project is no longer maintained and its repositories are read-only. You can still fork them if they can be useful to you.
 
 ## Important Note
 
